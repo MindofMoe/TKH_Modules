@@ -1,0 +1,12 @@
+Moises Rivera
+A.) What is Git and how is it different from GitHub?
+	Git is a version control system that helps track changes in files, details who edited the file, what was changed and allows you to work in a branch file prior to making changes in the master file. Github is a platform that allows users to host there code and to work in collaboration with other users.
+B) Why use the terminal?
+	The terminal is a useful in navigating folder to folder using simple commands instead of dealing with the GUI. Best practice is to creating folders and structures via the terminal.
+
+C) Explain 3 benefits version control in your own words?
+	1.) It allows multiple people to work on the same files via a branching system.
+
+	2.) Allows changes to be tracked.
+
+	3.) Allows features to be saved and tested prior to committing them to the master file. 
