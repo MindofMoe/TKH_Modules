@@ -1,0 +1,36 @@
+Moises Rivera
+Assignment 1
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+	The computer receives a signal from the keyboard after being struck and released, the signal is internalized and it’s interpreted. After which the screen outputs the visual component of the signal.
+
+In your own words, how do computers use input and output to create experiences? (250 words max)
+	The relationship between input and output exists as the action of manually inputting data to have the computer interpret the data and output the interpretation of said data in a visual or audio form.
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+	The software component was necessary as it came preinstalled in all the computers consumers are purchasing and in addition came with subscription based options to increase profits even further. 
+
+Explain in your own words how code becomes software. (150 words max)
+	Software starts as code, meaning sequences of symbols that are inputted into the computer. Utilizing modern typing into keyboard code we can create programs from code. Programs are lines of code that can be carried out transforms into instructions that are executable. 
+
+Explain “algorithms” in your own words. (150 words max)
+	Algorithms are a set of specific instructions that are executable
+
+Explain the DRY principle. (100 words max)
+	The DRY principle stands for Don’t Repeat Yourself meaning in the name of code efficiency the programmer should try to ensure reusability in the code. The code should not consist of various algorithms that are created for each instance but instead should be flexible enough for continued use throughout.
+
+In your own words, what is object-oriented programming? (100 words max)
+	Object-oriented programming provided a way to create a system to name and catalogue. It made keeping track of a library more manageable.
+
+In your own words explain data and how it relates to code. (100 Words max)
+	Data is information, whether it comes from an external source or as a result of internal activity. The job of code is to work with data and to manage the data effectively and accurately. 
+
+
+What is a framework? (150 words max)
+	A framework is an already existent generic template that can be fully customized with new user code to create specific software.
+
+What is debugging? (150 words max)
+	Debugging refers to the process of reviewing errors that prevent the program from its correct intentional operation.
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+	Learning to code is an opportunity to create change, whether it’s entertaining via a game app or influencing everyday life via the creation of the next Facebook. I have begun to look at code as a painter choosing his next stroke or a poet choosing his words, as examples of art.
